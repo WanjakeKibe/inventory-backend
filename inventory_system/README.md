@@ -3,11 +3,11 @@
 This is a backend Inventory Management System built using Django and Django REST Framework.
 
 ## Features
-1. Product management
-2. Category management
-3. Supplier management
-4. RESTful API endpoints
-5. Django admin panel
+- Product management
+- Category management
+- Supplier management
+- RESTful API endpoints
+- Django admin panel
 
 ## Technologies Used
 1. Python
