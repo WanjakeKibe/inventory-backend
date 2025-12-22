@@ -36,5 +36,5 @@ class StockMovement(models.Model):
     reason = models.CharField(max_length=200)
     created_at = models.DateTimeField(auto_now_add=True)
 
-    #If quantity <= low_stock_threshold
+    #If quantity less than or equal to low_stock_threshold
     low_stock_threshold = models.IntegerField(default=5)
